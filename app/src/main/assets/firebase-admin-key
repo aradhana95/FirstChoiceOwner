@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fir-foodcubo",
+  "private_key_id": "1d45d57941f1677c5ecdeeee6fd16e55fc032e1c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDtuhbJTORtl3N/\nMvmEcj2CQkaEQ7bD8hTjGjshMn8h28UR9ZfSXGkaM9ozWSWrhuKE7dna2tGxltAp\nAh0KDhCZa0fArbcLuW/IEsSkrseLkSOWN5OWOqq38iki/xCIpXJONQCloOFx5JJh\nN5Hw2wnO9cfl4Y8MnO7r6THSyyPjTLaWPdHnPWZZPA5AfbR30k257M7eL32BC/QD\nLq6m1RdPk9u2sqi0fZEUYqeGe/2AWsSNGJ65midaRZz7Qoo2b2wBMqhF3sqZwecu\n3Df07kuLWMaMZh/RlVLBFa2PiFuu4es0YggldaaseEU3h3a8aIzQGCa2zFJrc7fY\n9zb8hdA9AgMBAAECggEAYVIM0QUDAOB/HmQyZOfVyXUzZCNKd4YrydsruMfw5t4P\nG+6UZECDoH/4xIuq0cErC6tJxABP1yl790XPuJWQcxZJrhYPuSOFoP0Z9qc8tqTI\n0k7XQymqSRrAf3y2+pHsrRqitKubj6I40MbMnrM1HT5eQvxnsQyv/PEe/gI+o2ay\n1/WhurDwVG+eakPQl1ay1a6vWLyVUkyQMVjcCncURsnbaiWNg2doz2DnTlZPKrEG\nBREEdkVbRjr/zyh3AAHCoOXqe8jmq6o28lj0i2xY0JmITQRXXZMNENSV12ei6NPu\nfHfTE458fdY8N8nq4Ikxm15p75z5qc/hGVbOd9YpmwKBgQD6oH6DBJeimlhQ75r2\nuj1Qawavw/mkLko61O0/ta+3nRhcbikh5jaGniivsSvTJlAx9xJvTBkDXgi+NGLO\nHCAvSB7VHvzdmROIUm2cWVMGzmCncd/6SL+Ojlog5pZd4pjzju1vTairwadqaRNd\nBE8pbtUwFINclcvY9TL14gPiNwKBgQDy0svQyJBGxOprjwdiAASxY/i97hq2L9vj\nCoflN95Bx8TMtbCxol83s4LO1btcrfpm8PdRp+4j4SfdHD3DJk0OPSdaZQAVNzaX\nkl/z6IEgbD4p3vkBonDp50oYuSIPRiYZT32x1XtBNUg7GL6ClokSpscW9gieI3ai\n2xWkc2M3KwKBgQC6gajj0w0MohNK16PYK6vpJlwpfItQFGqE8WNEX+5Nk4hHcGsH\noQu+jf/1DsFwNjjDlfuP+285xEZ5VP6aJvAEf4UCUDcYqQuSDNUo3ogcroPa17E3\nzd9PNLv5c98+Kpxr01b51y7H8iql01/nfodya9oWF43R3l9+KqortG/zbQKBgHnA\nL+lzZsPVICTmBjGhCLlZAvNYW5RV0s64DQNlS893trldsEagv1VScJf8moERyqeq\n0pbiuIjM8AvxiRY8Mg6dowmz8qKwmHLPNcU6IuR64YBlCD1FkY/2JDTZPrah2aB/\nNurfu3kqmhjngz4+9GOhs9lTa2a/KVDmwKdAI9MZAoGAMkzmdXNL055Hnr1ap6TG\n2Btr2Qb+dBZjWR8Ay2xIVRDcwIUB1KlA+UFvL2cTIV051VS8/B173sfM3Ynu00M+\nuy1J9OFKgGj/QUznPFrVMI0smNs70G8UvaUMV0PLwN8h97j9JfbZrJ7am7M8BpUS\nnUE36zaDg3QT90PFbcyDOQk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-k6bjo@fir-foodcubo.iam.gserviceaccount.com",
+  "client_id": "113533552712483433579",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-k6bjo%40fir-foodcubo.iam.gserviceaccount.com"
+}
